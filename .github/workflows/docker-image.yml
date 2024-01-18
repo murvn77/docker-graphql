@@ -31,4 +31,4 @@ jobs:
 
     - name: Push the Docker image
       run: |
-        docker push murvn77/docker-graphql:0.0.2 .
+        docker push murvn77/docker-graphql:0.0.2
